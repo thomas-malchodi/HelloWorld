@@ -17,7 +17,7 @@ public class Appointment
 	private String timeEnd;
 	
 	/**
-	 * takes in the name
+	 * takes in the name EDIT EDIT EDIT EDIT
 	 * the date it is in form "DD/MM/YYYY"
 	 * then the number of hours something persists
 	 */
@@ -29,7 +29,7 @@ public class Appointment
 	}
 	
 	/**
-	 * 
+	 *EDITEDITEDITEIDEITEIDIt 
 	 * @param name
 	 * @param date
 	 * calls other ctor
@@ -57,7 +57,7 @@ public class Appointment
 		return name;
 	}
 
-	/**
+	/**edit edit edit edit
 	 * @param name the name to set
 	 */
 	public void setName(String name)
