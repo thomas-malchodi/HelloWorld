@@ -11,15 +11,16 @@ public class Appointment
 {
 	private String name;
 	private String date;
+	// LALALLALALLALALALLALALLALLALALLALALLALALALLA
 	private int duration;
 	
 	private String timeStart;
 	private String timeEnd;
 	
-	/**
-	 * takes in the name EDIT EDIT EDIT EDIT
-	 * the date it is in form "DD/MM/YYYY"
+
+	 /*zzzzzzzudlkfjsldkdfjd:: the date it is in form "DD/MM/YYYY"
 	 * then the number of hours something persists
+	jj
 	 */
 	public Appointment(String name, String date, int duration)
 	{
@@ -81,7 +82,7 @@ public class Appointment
 		this.timeStart = timeStart;
 	}
 
-	/**
+	/** this is the end
 	 * @return the timeEnd
 	 */
 	public String getTimeEnd() 
@@ -97,7 +98,7 @@ public class Appointment
 		this.timeEnd = timeEnd;
 	}
 
-	/**
+	/** dreams
 	 * @return the date
 	 */
 	public String getDate() {
@@ -118,7 +119,8 @@ public class Appointment
 		return duration;
 	}
 
-	/**
+	/** cha cha changes, turn and face the strange changes
+	 * DON"T WANT TO BE A DIFFERENT ONE
 	 * @param duration the duration to set
 	 */
 	public void setDuration(int duration) {
